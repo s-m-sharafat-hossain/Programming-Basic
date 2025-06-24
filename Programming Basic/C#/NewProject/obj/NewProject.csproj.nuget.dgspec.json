@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shara\\Desktop\\Programming Basic\\C#\\NewProject\\NewProject.csproj": {}
+    "C:\\Users\\shara\\Desktop\\GitHub\\Programming-Basic\\Programming Basic\\C#\\NewProject\\NewProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shara\\Desktop\\Programming Basic\\C#\\NewProject\\NewProject.csproj": {
+    "C:\\Users\\shara\\Desktop\\GitHub\\Programming-Basic\\Programming Basic\\C#\\NewProject\\NewProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shara\\Desktop\\Programming Basic\\C#\\NewProject\\NewProject.csproj",
+        "projectUniqueName": "C:\\Users\\shara\\Desktop\\GitHub\\Programming-Basic\\Programming Basic\\C#\\NewProject\\NewProject.csproj",
         "projectName": "NewProject",
-        "projectPath": "C:\\Users\\shara\\Desktop\\Programming Basic\\C#\\NewProject\\NewProject.csproj",
+        "projectPath": "C:\\Users\\shara\\Desktop\\GitHub\\Programming-Basic\\Programming Basic\\C#\\NewProject\\NewProject.csproj",
         "packagesPath": "C:\\Users\\shara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shara\\Desktop\\Programming Basic\\C#\\NewProject\\obj\\",
+        "outputPath": "C:\\Users\\shara\\Desktop\\GitHub\\Programming-Basic\\Programming Basic\\C#\\NewProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
